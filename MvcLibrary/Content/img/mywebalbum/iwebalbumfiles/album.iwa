@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<album>
+  <info>
+    <title>My Web Photo Album</title>
+    <comments>Album Comments
+</comments>
+    <output>C:\Users\Casper\Desktop\banner\library\ALBUM\mywebalbum</output>
+    <photosize>2</photosize>
+    <url>http://</url>
+  </info>
+  <photo>
+    <title>1</title>
+    <comments></comments>
+    <filename>C:\Users\Casper\Desktop\banner\library\1.jpg</filename>
+    <rotateinfo></rotateinfo>
+    <flip_v_info></flip_v_info>
+    <flip_h_info></flip_h_info>
+  </photo>
+  <photo>
+    <title>2</title>
+    <comments></comments>
+    <filename>C:\Users\Casper\Desktop\banner\library\2.jpg</filename>
+    <rotateinfo></rotateinfo>
+    <flip_v_info></flip_v_info>
+    <flip_h_info></flip_h_info>
+  </photo>
+  <photo>
+    <title>3</title>
+    <comments></comments>
+    <filename>C:\Users\Casper\Desktop\banner\library\3.jpg</filename>
+    <rotateinfo></rotateinfo>
+    <flip_v_info></flip_v_info>
+    <flip_h_info></flip_h_info>
+  </photo>
+  <photo>
+    <title>4</title>
+    <comments></comments>
+    <filename>C:\Users\Casper\Desktop\banner\library\4.jpg</filename>
+    <rotateinfo></rotateinfo>
+    <flip_v_info></flip_v_info>
+    <flip_h_info></flip_h_info>
+  </photo>
+  <photo>
+    <title>5</title>
+    <comments></comments>
+    <filename>C:\Users\Casper\Desktop\banner\library\5.jpg</filename>
+    <rotateinfo></rotateinfo>
+    <flip_v_info></flip_v_info>
+    <flip_h_info></flip_h_info>
+  </photo>
+  <photo>
+    <title>6</title>
+    <comments></comments>
+    <filename>C:\Users\Casper\Desktop\banner\library\6.jpg</filename>
+    <rotateinfo></rotateinfo>
+    <flip_v_info></flip_v_info>
+    <flip_h_info></flip_h_info>
+  </photo>
+</album>
